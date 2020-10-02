@@ -1,2 +1,2 @@
 # MiniDDSM
-The Swedish Historical Birth Records A Semi-Annotated Dataset https://ardisdataset.github.io/MiniDDSM/
+The Mini-DDSM (Digital Database for Screening Mammography) Dataset https://ardisdataset.github.io/MiniDDSM/
